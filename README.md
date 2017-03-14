@@ -1,0 +1,3 @@
+# recruitment1
+
+A simple project made for recruitment process for one of companies I've applied to as Jumior Front End Developer.
